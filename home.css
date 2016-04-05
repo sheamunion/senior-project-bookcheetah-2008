@@ -1,0 +1,110 @@
+#tabs
+{
+	margin-top: 10px;
+	font-family: arial;
+}	
+#topsection, #topsection h1
+{
+	text-align: center;
+	border: white solid thick;
+	color: #fc8020;	
+	font-family:sans-serif;
+}
+#logo {
+margin-top: 40px;
+}
+#searchbuy
+{
+	margin-top: 30px;
+	margin-bottom: 15px;
+	float: left;
+	width: 315px;
+	height: 200px;
+	text-align: center;
+	background-image: url('http://bookcheetah.com/facebook/img/buysimple.png');
+	background-repeat:no-repeat;
+}
+#searchsell
+{
+	margin-top: 30px;
+	margin-bottom: 15px;
+	float: right;
+    width: 315px;
+	height: 200px;
+	text-align: center;
+	background-image: url('http://bookcheetah.com/facebook/img/sellsimple.png');
+	background-repeat:no-repeat;
+}
+table.center, td.center 
+{
+    text-align:center;
+	}
+p.buy 
+{
+	color:#000;
+	font-family:Sans-Serif;
+	font-size: 10pt;
+	font-weight:bold;
+	}
+p.sell
+{
+	color:#FFB90F;
+	font-family:sans-serif;
+	font-size: 10pt;
+	font-weight:bold;
+}
+
+input.query
+{
+	margin-top:65px;
+	height:20px;
+	width:230px;
+	font-size:16px;
+	font-weight:bold;
+	font-family: sans-serif;
+}
+
+input.btn
+{
+	margin-top:7px;
+	height: 25px;
+	text-align:center;
+	font-size:16px;
+	font-weight:bold;
+	font-family: sans-serif;
+}
+#content 
+{	
+	clear:both;
+	height:auto;
+	font-family:Arial;
+	margin:30px;
+	
+	}
+table#searchresults 
+{
+	margin: 15px;
+	}
+#searchresults td {
+    padding: 5px;
+    vertical-align:top;
+}
+	
+#sellercontact 
+{
+    height:auto;
+    }
+p.example_input 
+{
+	color:gray;
+	}
+table#contact {
+    margin-left:45px;
+}
+table#contact td p.right {
+    text-align:right;
+    vertical-align:top;
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size:16px; 
+    font-weight:bold;
+}

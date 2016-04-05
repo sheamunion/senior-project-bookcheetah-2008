@@ -1,0 +1,21 @@
+#tb_ResultsTitle th
+{
+    float:left;
+    color:#000;
+    font-size:18px;
+    font-weight:bold;
+    }
+.tb_ResultsAuthor tr
+{
+    clear:both;
+    float:left;
+    color:#000;
+    font-size:16px;
+    }
+.tb_ResultsCourse 
+{
+    clear:both;
+    float:left;
+    color:#000;
+    font-size:16px;
+    }
